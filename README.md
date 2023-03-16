@@ -1,2 +1,2 @@
-# demo-repo
-This repo is to learn more about git and github.
+# demo-repo description
+This repo is to learn more about git and github using Visual Studio Code.
